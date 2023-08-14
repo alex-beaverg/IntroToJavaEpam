@@ -1,0 +1,28 @@
+Stage 01:
+Linear actions:
+Task 01: 12.0
+Task 02: -1123.2141161804022
+Task 03: 3.2972010272738634
+Task 04: 456.123
+Task 05: 01h 50min 02sec
+Task 06: false
+
+Branching actions:
+Task 01: [true, false]
+Task 02: 3
+Task 03: true
+Task 04: false
+Task 05: 7.0
+
+Cycles actions:
+Task 01: 55
+Task 02: [1, -2, 5]
+Task 03: 83350
+Task 04: 2147483647
+Task 05: 420.0
+Task 06: {a=97, b=98, c=99, d=100, e=101, f=102}
+Task 07: {17=[], 18=[2, 3, 6, 9], 19=[], 20=[2, 4, 5, 10], 21=[3, 7], 22=[2, 11], 23=[]}
+Task 08: [7, 9]
+
+
+Process finished with exit code 0

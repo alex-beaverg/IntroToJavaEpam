@@ -11,7 +11,7 @@ public class Task01 {
         import java.util.Scanner;
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        But we use function arguments!*/
+        But we use function arguments! */
 
         int result = 0;
         for (int i = 1; i <= number; i++) {

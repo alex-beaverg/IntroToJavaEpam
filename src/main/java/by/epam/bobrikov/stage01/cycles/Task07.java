@@ -17,7 +17,7 @@ public class Task07 {
         Scanner scanner = new Scanner(System.in);
         int numM = scanner.nextInt();
         int numN = scanner.nextInt();
-        But we use function arguments!*/
+        But we use function arguments! */
 
         Map<Integer, List<Integer>> result = new HashMap<>();
         for (int i = numM; i <= numN; i++) {
