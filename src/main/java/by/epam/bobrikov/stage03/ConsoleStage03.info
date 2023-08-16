@@ -1,0 +1,72 @@
+Stage 03:
+String as array actions:
+Task 01: [first_var, second_var, max_speed, min_capacity]
+Task 02: Microsoft letter is the best letter in the world
+Task 03: 5
+Task 04: 4
+Task 05: Microsoft word is the best word in the world
+
+String as object actions:
+Task 01: [Start position: 44, End position: 51]
+Task 02: Tabke my habnds
+Task 03: true
+Task 04: tort
+Task 05: 2
+Task 06: iinnffoorrmmaattiikkaa
+Task 07: abcdef
+Task 08: friend
+Task 09: [Small: 10, Big: 1]
+Task 10: 4
+
+Regex actions:
+Task 01-1:
+Good bye!
+Microsoft word is the best word in the world. It's great!
+Good evening. What do you think about it? Oh, hello!
+I miss you. It was unforgettable! See you! Bye!
+
+Task 01-2:
+is in the the word best word world Microsoft. It's great.
+Good evening. do it you What think about. Oh, hello.
+I you miss. It was unforgettable. See you. Bye.
+bye Good.
+
+Task 01-3:
+Microsoft word word world best in is the the. It's great.
+Good evening. about do you What it think. hello Oh,.
+you I miss. unforgettable It was. you See. Bye.
+Good bye.
+
+Task 02: [
+Opening tag without argument: <notes>,
+Opening tag with argument: <note id = "1">,
+Argument: id = "1",
+Opening tag without argument: <to>,
+Body: Вася,
+Closing tag: </to>,
+Opening tag without argument: <from>,
+Body: Света,
+Closing tag: </from>,
+Opening tag without argument: <heading>,
+Body: Напоминание,
+Closing tag: </heading>,
+Opening tag without argument: <body>,
+Body: Позвони мне завтра!,
+Closing tag: </body>,
+Closing tag: </note>,
+Opening tag with argument: <note id = "2">,
+Argument: id = "2",
+Opening tag without argument: <to>,
+Body: Петя,
+Closing tag: </to>,
+Opening tag without argument: <from>,
+Body: Маша,
+Closing tag: </from>,
+Opening tag without argument: <heading>,
+Body: Важное напоминание,
+Closing tag: </heading>,
+Opening tag without body: <body/>,
+Closing tag: </note>,
+Closing tag: </notes>]
+
+Process finished with exit code 0

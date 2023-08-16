@@ -62,5 +62,7 @@ public class DecompositionActions {
 
         // Task 17:
         System.out.println("Task 17: " + new Task17().taskCalculation(21));
+
+        System.out.println();
     }
 }
