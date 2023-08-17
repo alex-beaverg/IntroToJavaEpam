@@ -3,6 +3,7 @@ package by.epam.bobrikov;
 import by.epam.bobrikov.stage01.Stage01Actions;
 import by.epam.bobrikov.stage02.Stage02Actions;
 import by.epam.bobrikov.stage03.Stage03Actions;
+import by.epam.bobrikov.stage04.Stage04Actions;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,5 +15,8 @@ public class Main {
 
         // Stage 03:
         new Stage03Actions().stageActions();
+
+        // Stage 04:
+        new Stage04Actions().stageActions();
     }
 }

@@ -1,0 +1,250 @@
+Stage 04:
+Simple classes actions:
+Task 01:
+Number 1: 100
+Number 2: 115
+Sum of numbers: 215
+Max of numbers: 115
+
+Task 02:
+testObject1, Number 1: 15
+testObject1, Number 2: 30
+testObject2, Number 1: 150
+testObject2, Number 2: 25
+testObject2, Number 1 after set: 500
+testObject2, Number 2 after set: 200
+
+Task 03:
+Student Abramov G.A., group N110
+Student Ivanov P.P., group N105
+Student Klimova O.P., group N111
+Student Adamovich Z.I., group N110
+Student Burak A.L., group N105
+Student Agaponov E.P., group N111
+
+Task 04:
+Trains sorted by number:
+Train N:1526, Los Angeles, 9:00
+Train N:2415, Seattle, 17:53
+Train N:2419, Seattle, 5:35
+Train N:3321, Portland, 17:20
+Train N:4366, New York, 12:45
+
+Train by number (4366):
+Train N:4366, New York, 12:45
+
+Trains sorted by destination:
+Train N:1526, Los Angeles, 9:00
+Train N:4366, New York, 12:45
+Train N:3321, Portland, 17:20
+Train N:2419, Seattle, 5:35
+Train N:2415, Seattle, 17:53
+
+Task 05:
+Random Start Counter:
+Current number: 2
+Increase number: 3
+Increase number: 4
+Increase number: 5
+Increase number: 6
+Increase number: 7
+Increase number: 8
+Increase number: 9
+Increase number: 0
+Increase number: 1
+Increase number: 2
+Decrease number: 1
+Decrease number: 0
+Decrease number: 9
+Decrease number: 8
+Decrease number: 7
+Decrease number: 6
+Decrease number: 5
+Decrease number: 4
+Decrease number: 3
+Decrease number: 2
+Decrease number: 1
+Start 7 counter:
+Current number: 7
+Increase number: 8
+Increase number: 9
+Increase number: 0
+Increase number: 1
+Decrease number: 0
+Decrease number: 9
+Decrease number: 8
+Decrease number: 7
+
+Task 06:
+Current time: 0:0:0
+Time after set hours = 33: Current time: 0:0:0
+Time after set hours = 13: Current time: 13:0:0
+Time after set hours = 73: Current time: 13:0:0
+Time after set hours = 43: Current time: 13:43:0
+Time after set hours = 93: Current time: 13:43:0
+Time after set hours = 23: Current time: 13:43:23
+Time after set all time = 25:94:102: Current time: 0:0:0
+Time after set all time = 20:44:59: Current time: 20:44:59
+
+Task 07:
+Triangle perimeter: 25.77627893459904
+Triangle square: 28.055
+Triangle centroid point: (-1.3499999999999994, 3.433333333333335)
+
+Task 08:
+Sort by surname:
+Customers: [
+Customer: id = 100, surname = 'Ivanov', name = 'Ivan', patronymic = 'Ivanovich', address = 'Minsk', creditCard = 4659, bankAccount = 25459,
+Customer: id = 195, surname = 'Klimova', name = 'Ira', patronymic = 'Ivanovna', address = 'Paris', creditCard = 3129, bankAccount = 35487,
+Customer: id = 69, surname = 'Kotova', name = 'Anna', patronymic = 'Petrovna', address = 'Oslo', creditCard = 4933, bankAccount = 22133,
+Customer: id = 115, surname = 'Petrov', name = 'Petr', patronymic = 'Petrovich', address = 'Grodno', creditCard = 4123, bankAccount = 12568,
+Customer: id = 102, surname = 'Sidorov', name = 'Oleg', patronymic = 'Olegovich', address = 'Brest', creditCard = 1526, bankAccount = 24369]
+
+Customers with credit cards N4000-5000:
+Customers: [
+Customer: id = 100, surname = 'Ivanov', name = 'Ivan', patronymic = 'Ivanovich', address = 'Minsk', creditCard = 4659, bankAccount = 25459,
+Customer: id = 69, surname = 'Kotova', name = 'Anna', patronymic = 'Petrovna', address = 'Oslo', creditCard = 4933, bankAccount = 22133,
+Customer: id = 115, surname = 'Petrov', name = 'Petr', patronymic = 'Petrovich', address = 'Grodno', creditCard = 4123, bankAccount = 12568]
+
+Task 09:
+Books by author Gaidar:
+Books: [
+Book: id = 101, name = 'Chook and Gek', author = 'Gaidar', publishingHouse = 'AST', year = 2015, pages = 100, price = 12, bindingType = 'hard cover',
+Book: id = 22, name = 'Gek and Chook', author = 'Gaidar', publishingHouse = 'OSP', year = 1997, pages = 106, price = 13, bindingType = 'hard cover']
+
+Books by publishing house AST:
+Books: [
+Book: id = 101, name = 'Chook and Gek', author = 'Gaidar', publishingHouse = 'AST', year = 2015, pages = 100, price = 12, bindingType = 'hard cover',
+Book: id = 13, name = 'Metallica', author = 'Hetfield', publishingHouse = 'AST', year = 2010, pages = 223, price = 29, bindingType = 'soft cover',
+Book: id = 51, name = 'Book 5', author = 'Unknown', publishingHouse = 'AST', year = 1999, pages = 15, price = 5, bindingType = 'hard cover']
+
+Books after 2000 year:
+Books: [
+Book: id = 101, name = 'Chook and Gek', author = 'Gaidar', publishingHouse = 'AST', year = 2015, pages = 100, price = 12, bindingType = 'hard cover',
+Book: id = 13, name = 'Metallica', author = 'Hetfield', publishingHouse = 'AST', year = 2010, pages = 223, price = 29, bindingType = 'soft cover',
+Book: id = 46, name = 'Harry Potter 1', author = 'Rolling', publishingHouse = 'OSP', year = 2005, pages = 401, price = 22, bindingType = 'soft cover']
+
+Task 10:
+Airlines by destination Oslo:
+Airlines: [
+Airline: destination = 'Oslo', flightNumber = 6225, planeType = 'Boing 747', time = '15:25', weekDays = [Wednesday, Friday],
+Airline: destination = 'Oslo', flightNumber = 6229, planeType = 'Boing 767', time = '13:10', weekDays = [Wednesday, Thursday, Friday]]
+
+Airlines by weekday Friday:
+Airlines: [
+Airline: destination = 'Oslo', flightNumber = 6225, planeType = 'Boing 747', time = '15:25', weekDays = [Wednesday, Friday],
+Airline: destination = 'Paris', flightNumber = 7252, planeType = 'Boing 737', time = '5:40', weekDays = [Monday, Friday],
+Airline: destination = 'Oslo', flightNumber = 6229, planeType = 'Boing 767', time = '13:10', weekDays = [Wednesday, Thursday, Friday],
+Airline: destination = 'Berlin', flightNumber = 3322, planeType = 'Boing 747', time = '16:55', weekDays = [Sunday, Monday, Friday]]
+
+Airlines by weekday Friday and with time after 12:00:
+Airlines: [
+Airline: destination = 'Oslo', flightNumber = 6225, planeType = 'Boing 747', time = '15:25', weekDays = [Wednesday, Friday],
+Airline: destination = 'Oslo', flightNumber = 6229, planeType = 'Boing 767', time = '13:10', weekDays = [Wednesday, Thursday, Friday],
+Airline: destination = 'Berlin', flightNumber = 3322, planeType = 'Boing 747', time = '16:55', weekDays = [Sunday, Monday, Friday]]
+
+Aggregation and composition actions:
+Task 01:
+About me.
+Hello. My name is Alexey. I was born in Minsk.
+Title of text: About me.
+
+Task 02:
+Add 3 good wheels and 1 bad wheel:
+[Wheel: id = 379110473, type = 'Summer', radius = 16, Wheel: id = 99550389, type = 'Summer', radius = 16, Wheel: id = 1598924227, type = 'Summer', radius = 16]
+Add 4 good wheels:
+[Wheel: id = 379110473, type = 'Summer', radius = 16, Wheel: id = 99550389, type = 'Summer', radius = 16, Wheel: id = 1598924227, type = 'Summer', radius = 16, Wheel: id = 1144748369, type = 'Summer', radius = 16]
+Change wheel number 1:
+[Wheel: id = 1768305536, type = 'Summer', radius = 16, Wheel: id = 99550389, type = 'Summer', radius = 16, Wheel: id = 1598924227, type = 'Summer', radius = 16, Wheel: id = 1144748369, type = 'Summer', radius = 16]
+Add 5th wheel:
+[Wheel: id = 1768305536, type = 'Summer', radius = 16, Wheel: id = 99550389, type = 'Summer', radius = 16, Wheel: id = 1598924227, type = 'Summer', radius = 16, Wheel: id = 1144748369, type = 'Summer', radius = 16]
+Try to move 50 km with empty gas tank. Total distance = 0
+Try to add 15 liters of fuel. Gas Level = 15
+Try to add 100 liters of fuel. Gas Level = 60
+Try to move 200 km:
+Total distance = 200
+Gas level = 44
+Name of car: Volvo
+My car: Car: name = 'Volvo', type = 'Hatchback', gasTankMaxLevel = 60, gasLevel = 44, fuelConsumption = 8, Engine: capacity = 150, volume = 2.2, type = 'Inline 4', wheels = [Wheel: id = 1768305536, type = 'Summer', radius = 16, Wheel: id = 99550389, type = 'Summer', radius = 16, Wheel: id = 1598924227, type = 'Summer', radius = 16, Wheel: id = 1144748369, type = 'Summer', radius = 16], totalDistance = 200
+
+Task 03:
+Minsk is the capital of Belarus
+Quantity of regions: 6
+State square: 32800
+Region centers:
+Minsk
+Brest
+Grodno
+Gomel
+Vitebsk
+Mogilev
+
+Task 04:
+Finding client Ivanov and sort his accounts by number: [
+Account: number = 1234, isBlocked = false, balance = 5000,
+Account: number = 1555, isBlocked = false, balance = 10200,
+Account: number = 1564, isBlocked = false, balance = 1200,
+Account: number = 2115, isBlocked = true, balance = -2200,
+Account: number = 2133, isBlocked = true, balance = -500,
+Account: number = 3659, isBlocked = false, balance = 3100]
+Finding client Ivanov and sort his accounts by balance: [
+Account: number = 2115, isBlocked = true, balance = -2200,
+Account: number = 2133, isBlocked = true, balance = -500,
+Account: number = 1564, isBlocked = false, balance = 1200,
+Account: number = 3659, isBlocked = false, balance = 3100,
+Account: number = 1234, isBlocked = false, balance = 5000,
+Account: number = 1555, isBlocked = false, balance = 10200]
+Account 3659 before blocking:
+Account: number = 3659, isBlocked = false, balance = 3100
+Account 3659 after blocking:
+Account: number = 3659, isBlocked = true, balance = 3100
+Account 3659 after unblocking:
+Account: number = 3659, isBlocked = false, balance = 3100
+Sum of all accounts by Petrov: 7015
+Sum of unblocked accounts by Petrov: 10150
+Sum of blocked accounts by Petrov: -3135
+
+Task 05:
+Find packages by type 'Rest' and sort by id:[
+Travel package: id = 531, type = 'Rest', transport = 'Air', days = 10, food = 'All inclusive',
+Travel package: id = 1843, type = 'Rest', transport = 'Air', days = 21, food = 'All inclusive',
+Travel package: id = 4065, type = 'Rest', transport = 'Air', days = 14, food = 'All inclusive',
+Travel package: id = 4362, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 4850, type = 'Rest', transport = 'Bus', days = 11, food = '3 meals a day',
+Travel package: id = 6066, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 7267, type = 'Rest', transport = 'Train', days = 10, food = 'All inclusive']
+Find packages by transport 'Air' and sort by food:[
+Travel package: id = 4065, type = 'Rest', transport = 'Air', days = 14, food = 'All inclusive',
+Travel package: id = 531, type = 'Rest', transport = 'Air', days = 10, food = 'All inclusive',
+Travel package: id = 1843, type = 'Rest', transport = 'Air', days = 21, food = 'All inclusive',
+Travel package: id = 6066, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 6486, type = 'Shopping', transport = 'Air', days = 3, food = 'Breakfasts',
+Travel package: id = 4362, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts']
+Find packages by food 'Breakfasts' and sort by type:[
+Travel package: id = 7862, type = 'Excursion', transport = 'Bus', days = 3, food = 'Breakfasts',
+Travel package: id = 5012, type = 'Excursion', transport = 'Bus', days = 5, food = 'Breakfasts',
+Travel package: id = 6066, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 4362, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 6486, type = 'Shopping', transport = 'Air', days = 3, food = 'Breakfasts',
+Travel package: id = 4380, type = 'Shopping', transport = 'Bus', days = 4, food = 'Breakfasts']
+Find packages by days from 8 to 12 and sort by transport:[
+Travel package: id = 531, type = 'Rest', transport = 'Air', days = 10, food = 'All inclusive',
+Travel package: id = 4850, type = 'Rest', transport = 'Bus', days = 11, food = '3 meals a day',
+Travel package: id = 1724, type = 'Cruise', transport = 'Ferry', days = 12, food = 'All inclusive',
+Travel package: id = 9556, type = 'Cruise', transport = 'Ferry', days = 8, food = 'All inclusive',
+Travel package: id = 7267, type = 'Rest', transport = 'Train', days = 10, food = 'All inclusive',
+Travel package: id = 8895, type = 'Treatment', transport = 'Train', days = 9, food = '3 meals a day']
+Find packages by days from 5 to 15 and sort by days:[
+Travel package: id = 5012, type = 'Excursion', transport = 'Bus', days = 5, food = 'Breakfasts',
+Travel package: id = 7010, type = 'Treatment', transport = 'Bus', days = 7, food = '3 meals a day',
+Travel package: id = 6066, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 4362, type = 'Rest', transport = 'Air', days = 7, food = 'Breakfasts',
+Travel package: id = 9556, type = 'Cruise', transport = 'Ferry', days = 8, food = 'All inclusive',
+Travel package: id = 8895, type = 'Treatment', transport = 'Train', days = 9, food = '3 meals a day',
+Travel package: id = 7267, type = 'Rest', transport = 'Train', days = 10, food = 'All inclusive',
+Travel package: id = 531, type = 'Rest', transport = 'Air', days = 10, food = 'All inclusive',
+Travel package: id = 4850, type = 'Rest', transport = 'Bus', days = 11, food = '3 meals a day',
+Travel package: id = 1724, type = 'Cruise', transport = 'Ferry', days = 12, food = 'All inclusive',
+Travel package: id = 4065, type = 'Rest', transport = 'Air', days = 14, food = 'All inclusive']
+
+Process finished with exit code 0
