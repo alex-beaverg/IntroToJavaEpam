@@ -1,0 +1,199 @@
+Stage 05:
+Task 01:
+Hello world!
+Line 2
+
+Task 02:
+Payment N9726
+- - - - -
+Bread: 3 BYN
+Milk: 2 BYN
+Beer: 4 BYN
+Beef: 15 BYN
+Tomato: 6 BYN
+Water: 1 BYN
+Oil: 5 BYN
+- - - - -
+Total: 36 BYN
+Tax: 20 %
+Total w/tax: 43.2 BYN
+
+Task 03:
+Holidays
+- - - -
+1 Jan: New Year's Eve
+7 Jan: Christmas
+14 Feb: St. Valentine's day
+23 Feb: Military day
+8 Mar: World women's day
+1 Apr: Fool's day
+- - - -
+Quantity: 6
+
+Task 04:
+APPLICATION MENU
+----------------
+Enter '1' to view all dragon treasures
+Enter '2' to view the most expensive dragon treasure
+Enter '3' to view dragon treasures for the total amount you choose
+Enter '0' to exit
+Your choice: 1
+All dragon treasures in the dragon cave:
+Jewel_10: $790
+Coin_2: $839
+Jewel_30: $495
+Coin_4: $171
+Jewel_50: $543
+Coin_6: $588
+Jewel_70: $810
+Coin_8: $178
+Jewel_90: $887
+Coin_10: $204
+Jewel_110: $732
+Coin_12: $889
+Jewel_130: $666
+Coin_14: $387
+Jewel_150: $820
+Coin_16: $697
+Jewel_170: $480
+Coin_18: $866
+Jewel_190: $568
+Coin_20: $877
+Jewel_210: $452
+Coin_22: $689
+Jewel_230: $729
+Coin_24: $602
+Jewel_250: $616
+Coin_26: $887
+Jewel_270: $561
+Coin_28: $679
+Jewel_290: $274
+Coin_30: $785
+Jewel_310: $695
+Coin_32: $468
+Jewel_330: $388
+Coin_34: $814
+Jewel_350: $969
+Coin_36: $780
+Jewel_370: $821
+Coin_38: $50
+Jewel_390: $157
+Coin_40: $716
+Jewel_410: $300
+Coin_42: $945
+Jewel_430: $830
+Coin_44: $408
+Jewel_450: $772
+Coin_46: $925
+Jewel_470: $66
+Coin_48: $929
+Jewel_490: $775
+Coin_50: $897
+Jewel_510: $562
+Coin_52: $173
+Jewel_530: $196
+Coin_54: $798
+Jewel_550: $230
+Coin_56: $943
+Jewel_570: $384
+Coin_58: $514
+Jewel_590: $549
+Coin_60: $718
+Jewel_610: $371
+Coin_62: $906
+Jewel_630: $445
+Coin_64: $81
+Jewel_650: $963
+Coin_66: $259
+Jewel_670: $53
+Coin_68: $396
+Jewel_690: $782
+Coin_70: $286
+Jewel_710: $389
+Coin_72: $972
+Jewel_730: $10
+Coin_74: $559
+Jewel_750: $544
+Coin_76: $71
+Jewel_770: $129
+Coin_78: $124
+Jewel_790: $233
+Coin_80: $507
+Jewel_810: $294
+Coin_82: $662
+Jewel_830: $489
+Coin_84: $927
+Jewel_850: $323
+Coin_86: $805
+Jewel_870: $309
+Coin_88: $611
+Jewel_890: $154
+Coin_90: $599
+Jewel_910: $88
+Coin_92: $489
+Jewel_930: $971
+Coin_94: $714
+Jewel_950: $364
+Coin_96: $209
+Jewel_970: $417
+Coin_98: $371
+Jewel_990: $261
+Coin_100: $804
+
+APPLICATION MENU
+----------------
+Enter '1' to view all dragon treasures
+Enter '2' to view the most expensive dragon treasure
+Enter '3' to view dragon treasures for the total amount you choose
+Enter '0' to exit
+Your choice: 2
+The most expensive treasure in the dragon cave: Coin_72: $972
+
+APPLICATION MENU
+----------------
+Enter '1' to view all dragon treasures
+Enter '2' to view the most expensive dragon treasure
+Enter '3' to view dragon treasures for the total amount you choose
+Enter '0' to exit
+Your choice: 3
+Your total amount: 2500
+Dragon treasures totaling $2500 in the dragon cave:
+The amount you spent: $2467
+Jewel_690: $782
+Coin_64: $81
+Coin_90: $599
+Jewel_450: $772
+Jewel_790: $233
+
+APPLICATION MENU
+----------------
+Enter '1' to view all dragon treasures
+Enter '2' to view the most expensive dragon treasure
+Enter '3' to view dragon treasures for the total amount you choose
+Enter '0' to exit
+Your choice: 0
+
+Task 05A:
+Decoration has not been created. Incorrect type of decoration!
+Decoration has not been created. Incorrect type of decoration!
+Flower composition:
+- Flower: Blue Violet
+- Flower: White Rose
+- Flower: Orange Carnation
+- Flower: White Peony
+- Flower: Red Violet
+- Pack: White Wrapper
+- Pack: Purple Ribbon
+
+Task 05B:
+Component has not been created. Incorrect type of component!
+Component has not been created. Incorrect type of component!
+Present:
+- Sweet: Sugar Candies
+- Sweet: Sugar Candies
+- Sweet: Sugar Marshmallow
+- Sweet: Milk Cakes
+- Sweet: Milk Cakes
+- Pack: White Bag
+
+Process finished with exit code 0
