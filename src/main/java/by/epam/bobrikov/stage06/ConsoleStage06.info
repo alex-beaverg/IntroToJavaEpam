@@ -1,0 +1,179 @@
+Stage 06:
+Task 01:
+Authorisation error: Invalid login or password!
+Created person: null
+Is created person a user? true
+Is created person an admin? true
+User views Library:
+Book N1: Chook and Gek - Arcadiy Gaidar (Book)
+Book N2: Tom Sawyer - Mark Twain (Book)
+Book N3: Code style guide - Scott Bellware (eBook)
+Book N4: Mastering regular expressions - Jeffrey E.F. Friedl (eBook)
+Book N5: Code complete - Steve McConnell (eBook)
+Book N6: Enter night: Metallica. The biography - Mick Wall (Book)
+Book N7: What does this button do? An autobiography - Bruce Dickinson (Book)
+Book N8: I am Ozzy - Ozzy Osbourne (Book)
+Book N9: White line fever: the autobiography - Lemmy Kilmister (Book)
+Book N10: Alexi Laiho: guitar, chaos and control - Petri Silas (Book)
+Book N100: Pook the mouse - Unknown author (eBook)
+Admin views Library:
+Book N1: Chook and Gek - Arcadiy Gaidar (Book)
+Book N2: Tom Sawyer - Mark Twain (Book)
+Book N3: Code style guide - Scott Bellware (eBook)
+Book N4: Mastering regular expressions - Jeffrey E.F. Friedl (eBook)
+Book N5: Code complete - Steve McConnell (eBook)
+Book N6: Enter night: Metallica. The biography - Mick Wall (Book)
+Book N7: What does this button do? An autobiography - Bruce Dickinson (Book)
+Book N8: I am Ozzy - Ozzy Osbourne (Book)
+Book N9: White line fever: the autobiography - Lemmy Kilmister (Book)
+Book N10: Alexi Laiho: guitar, chaos and control - Petri Silas (Book)
+Book N100: Pook the mouse - Unknown author (eBook)
+User finds book (Code complete) in Library:
+Book N5: Code complete - Steve McConnell (eBook)
+User finds book (Code complete 2) in Library:
+Find Error: the Book was not found!
+null
+Admin finds book (Code complete) in Library:
+Book N5: Code complete - Steve McConnell (eBook)
+Admin finds book (Code complete 2) in Library:
+Find Error: the Book was not found!
+null
+The user informs the admin about the offer to add a book to library:
+A letter with a proposal to add a [Book N100: Pook the mouse - Unknown author (eBook)] to the library has been sent to admin1@gmail.com
+Admin adds new book to library:
+This book is already in the library.
+Letters about adding a [Book N100: Pook the mouse - Unknown author (eBook)] to the library have been sent to addresses: [user1@gmail.com, user2@gmail.com]
+User views Library:
+Book N1: Chook and Gek - Arcadiy Gaidar (Book)
+Book N2: Tom Sawyer - Mark Twain (Book)
+Book N3: Code style guide - Scott Bellware (eBook)
+Book N4: Mastering regular expressions - Jeffrey E.F. Friedl (eBook)
+Book N5: Code complete - Steve McConnell (eBook)
+Book N6: Enter night: Metallica. The biography - Mick Wall (Book)
+Book N7: What does this button do? An autobiography - Bruce Dickinson (Book)
+Book N8: I am Ozzy - Ozzy Osbourne (Book)
+Book N9: White line fever: the autobiography - Lemmy Kilmister (Book)
+Book N10: Alexi Laiho: guitar, chaos and control - Petri Silas (Book)
+Book N100: Pook the mouse - Unknown author (eBook)
+
+Task 02:
+View all notebook notes:
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a sofa), date (9.04.2023), email (alex@gmail.com), text (Furniture store. Model number 101. Title "Soft desert")
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Note: title (Vacation), date (15.06.2023), email (alex@gmail.com), text (Spain - Madrid. France - Paris, Lion. Germany - Berlin, Munich.)
+Note: title (Vacation 2), date (25.07.2023), email (alex@gmail.com), text (Egypt, Turkey, Bali, Thailand)
+Note: title (Office meeting), date (15.08.2023), email (kate@gmail.com), text (New agreement. New conditions. Bonuses. Contractors. Timing)
+Find notes with title [Meeting] and sort by email:
+Find error! Notes with title [Meeting] was not found!
+Find notes with title [Office meeting] and sort by email:
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Office meeting), date (15.08.2023), email (kate@gmail.com), text (New agreement. New conditions. Bonuses. Contractors. Timing)
+Find notes with date from 10.01.2023 to 10.02.2023 and sort by title:
+Find error! Notes between dates [10.01.2023, 10.02.2023] was not found!
+Find notes with date from 10.04.2023 to 10.07.2023 and sort by title:
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Note: title (Vacation), date (15.06.2023), email (alex@gmail.com), text (Spain - Madrid. France - Paris, Lion. Germany - Berlin, Munich.)
+Find notes with email [oleg@gmail.com] and sort by title:
+Find error! Notes with email [oleg@gmail.com] was not found!
+Find notes with email [alex@gmail.com] and sort by title:
+Note: title (Buying a sofa), date (9.04.2023), email (alex@gmail.com), text (Furniture store. Model number 101. Title "Soft desert")
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Vacation), date (15.06.2023), email (alex@gmail.com), text (Spain - Madrid. France - Paris, Lion. Germany - Berlin, Munich.)
+Note: title (Vacation 2), date (25.07.2023), email (alex@gmail.com), text (Egypt, Turkey, Bali, Thailand)
+Find notes with word [Dating] in text and sort by email:
+Find error! Notes with word [Dating] in text was not found!
+Find notes with word [Timing] in text and sort by email:
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Note: title (Office meeting), date (15.08.2023), email (kate@gmail.com), text (New agreement. New conditions. Bonuses. Contractors. Timing)
+Find notes with date from 10.01.2023 to 10.02.2023 and with word [Timing] in text and sort by Date:
+Find error! Notes with word [Timing] in text and between dates [10.01.2023, 10.02.2023] was not found!
+Find notes with date from 10.04.2023 to 10.07.2023 and with word [Timing] in text and sort by Date:
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Add note to notebook:
+The note [Buying a table] was added to the notebook.
+View all notebook notes:
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a sofa), date (9.04.2023), email (alex@gmail.com), text (Furniture store. Model number 101. Title "Soft desert")
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Note: title (Vacation), date (15.06.2023), email (alex@gmail.com), text (Spain - Madrid. France - Paris, Lion. Germany - Berlin, Munich.)
+Note: title (Vacation 2), date (25.07.2023), email (alex@gmail.com), text (Egypt, Turkey, Bali, Thailand)
+Note: title (Office meeting), date (15.08.2023), email (kate@gmail.com), text (New agreement. New conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a table), date (20.08.2023), email (kate@gmail.com), text (Furniture store. Model number 220. Title "Wooden dream")
+Add the same note to notebook:
+Adding error! This note is already in the notebook!
+View all notebook notes:
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a sofa), date (9.04.2023), email (alex@gmail.com), text (Furniture store. Model number 101. Title "Soft desert")
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Note: title (Vacation), date (15.06.2023), email (alex@gmail.com), text (Spain - Madrid. France - Paris, Lion. Germany - Berlin, Munich.)
+Note: title (Vacation 2), date (25.07.2023), email (alex@gmail.com), text (Egypt, Turkey, Bali, Thailand)
+Note: title (Office meeting), date (15.08.2023), email (kate@gmail.com), text (New agreement. New conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a table), date (20.08.2023), email (kate@gmail.com), text (Furniture store. Model number 220. Title "Wooden dream")
+Add note with bad email to notebook:
+Adding error! Note was not added! Email is not valid!
+View all notebook notes:
+Note: title (Office meeting), date (12.03.2023), email (alex@gmail.com), text (Agreement. Conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a sofa), date (9.04.2023), email (alex@gmail.com), text (Furniture store. Model number 101. Title "Soft desert")
+Note: title (Office meeting), date (21.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Etc...)
+Note: title (Restaurant meeting), date (23.05.2023), email (kate@gmail.com), text (Timing. Delays. New conditions. Part 2)
+Note: title (Vacation), date (15.06.2023), email (alex@gmail.com), text (Spain - Madrid. France - Paris, Lion. Germany - Berlin, Munich.)
+Note: title (Vacation 2), date (25.07.2023), email (alex@gmail.com), text (Egypt, Turkey, Bali, Thailand)
+Note: title (Office meeting), date (15.08.2023), email (kate@gmail.com), text (New agreement. New conditions. Bonuses. Contractors. Timing)
+Note: title (Buying a table), date (20.08.2023), email (kate@gmail.com), text (Furniture store. Model number 220. Title "Wooden dream")
+
+Task 03:
+Archive server started!
+Archive server closed!
+
+Task 04:
+Ship-2 entered to the port
+Ship-3 entered to the port
+Ship-8 entered to the port
+Ship-2 is loading
+Ship-3 is unloading
+Ship-8 is loading
+Ship-2 escaped from the port
+Ship-2 sailed into the Sea Area
+Ship-7 entered to the port
+Ship-7 is unloading
+Ship-8 escaped from the port
+Ship-8 sailed into the Sea Area
+Ship-4 entered to the port
+Ship-4 is loading
+Ship-3 escaped from the port
+Ship-3 sailed into the Sea Area
+Ship-6 entered to the port
+Ship-6 is loading
+Ship-7 escaped from the port
+Ship-7 sailed into the Sea Area
+Ship-1 entered to the port
+Ship-1 is unloading
+Ship-4 escaped from the port
+Ship-4 sailed into the Sea Area
+Ship-5 entered to the port
+Ship-5 is unloading
+Ship-6 escaped from the port
+Ship-6 sailed into the Sea Area
+Ship-9 entered to the port
+Ship-9 is unloading
+Ship-1 escaped from the port
+Ship-1 sailed into the Sea Area
+Ship-10 entered to the port
+Ship-10 is loading
+Ship-5 escaped from the port
+Ship-5 sailed into the Sea Area
+Ship-9 escaped from the port
+Ship-9 sailed into the Sea Area
+Ship-10 escaped from the port
+Ship-10 sailed into the Sea Area
+
+Process finished with exit code 0

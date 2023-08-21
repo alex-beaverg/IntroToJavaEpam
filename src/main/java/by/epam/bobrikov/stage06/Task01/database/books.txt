@@ -1,0 +1,11 @@
+1 // Chook and Gek // Arcadiy Gaidar // Book
+2 // Tom Sawyer // Mark Twain // Book
+3 // Code style guide // Scott Bellware // eBook
+4 // Mastering regular expressions // Jeffrey E.F. Friedl // eBook
+5 // Code complete // Steve McConnell // eBook
+6 // Enter night: Metallica. The biography // Mick Wall // Book
+7 // What does this button do? An autobiography // Bruce Dickinson // Book
+8 // I am Ozzy // Ozzy Osbourne // Book
+9 // White line fever: the autobiography // Lemmy Kilmister // Book
+10 // Alexi Laiho: guitar, chaos and control // Petri Silas // Book
+100 // Pook the mouse // Unknown author // eBook

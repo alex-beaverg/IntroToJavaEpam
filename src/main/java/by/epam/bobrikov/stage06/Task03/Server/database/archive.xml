@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <student>
+        <surname>Ivanov</surname>
+        <name>Alexey</name>
+        <age>20</age>
+        <group>106113</group>
+    </student>
+    <student>
+        <surname>Petrov</surname>
+        <name>Petr</name>
+        <age>21</age>
+        <group>106212</group>
+    </student>
+    <student>
+        <surname>Katina</surname>
+        <name>Irina</name>
+        <age>20</age>
+        <group>106313</group>
+    </student>
+    <student>
+        <surname>Makarova</surname>
+        <name>Dinara</name>
+        <age>22</age>
+        <group>106111</group>
+    </student>
+    <student>
+        <surname>Turov</surname>
+        <name>Alexandr</name>
+        <age>19</age>
+        <group>106324</group>
+    </student>
+    <student>
+        <surname>Dinozavrov</surname>
+        <name>Ivan</name>
+        <age>22</age>
+        <group>106111</group>
+    </student>
+    <student>
+        <surname>Bogat</surname>
+        <name>Arnold</name>
+        <age>21</age>
+        <group>106222</group>
+    </student>
+</cases>

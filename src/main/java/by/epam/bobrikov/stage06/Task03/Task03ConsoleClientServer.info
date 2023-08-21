@@ -1,0 +1,54 @@
+Invalid person -> Client server not started:
+Authorisation error: Invalid login or password!
+
+Process finished with exit code 0
+
+
+User person:
+Client as a User connected to archive!
+
+Enter 'exit' to close connection.
+Enter 'Surname' for watching student case from archive:
+Ivanov
+Requested case: Student: Ivanov Alexey, age = 20, group = 106113
+Katina
+Requested case: Student: Katina Irina, age = 20, group = 106313
+Popov
+Requested case: Student not found!
+Petrov
+Requested case: Student: Petrov Petr, age = 21, group = 106212
+exit
+Requested case: Archive server closed!
+Client disconnected from archive!
+
+Process finished with exit code 0
+
+
+Admin person:
+Client as an Admin connected to archive!
+
+Enter 'exit' to close connection.
+Enter 'Surname' for watching student case from archive:
+Enter 'Surname edit' for editing student case in archive:
+Enter 'Surname Name Age Group add student' for adding student case to archive
+Ivanov
+Requested case: Student: Ivanov Alexey, age = 20, group = 106113
+Makarova
+Requested case: Student: Makarova Olga, age = 22, group = 106111
+Levina
+Requested case: Student not found!
+Makarova edit
+Which field do you want to edit [surname/name/age/group newValue]?
+name Dinara
+Name was changed
+Makarova
+Requested case: Student: Makarova Dinara, age = 22, group = 106111
+Bogat Arnold 21 106222 add student
+Student was added
+Bogat
+Requested case: Student: Bogat Arnold, age = 21, group = 106222
+exit
+Requested case: Archive server closed!
+Client disconnected from archive!
+
+Process finished with exit code 0
